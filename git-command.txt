@@ -1,0 +1,27 @@
+- which git "check git exist in system"
+- sudo apt(dnf "fedora")install git "download git"
+- git init namefolder "Create a folder git"
+- git status "check status of file git"
+- git add "add file for git commit"
+- git config --global user.name "---"
+- git config --global user.email "email"
+- git commit -m "message"
+
+-----tracking the changes-----
+- git diff namefile "using for check changes in your file"
+- git commit and enter the message
+----Reverting Changes-------
+- git log --oneline "check file change before, file you want reverting"
+- git revert + id "revert become old file, id is id of old file"
+- cat for read file
+--------------------------------------------------------------------------
+Set up and create new repository
+- git clone link "clone your repository git"
+- cd .git for check
+--------------------------------------------------------------------------
+Push your changes to remote
+- git remote add origin link "for you connect your git to this folder"
+- cat .git/config "for check link will storage your code"
+- git push origin master "enter and input your username and passwords of token key enter and push all in github"
+
+AI-Opencv
