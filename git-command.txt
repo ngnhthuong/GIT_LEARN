@@ -1,4 +1,8 @@
-- which git "check git exist in system"
+How to fix remote: Permission to (repo.git) denied
+    find Credential Manager
+    remove git Account denied
+    
+ which git "check git exist in system"
 - sudo apt(dnf "fedora")install git "download git"
 - git init namefolder "Create a folder git"
 - git status "check status of file git"
